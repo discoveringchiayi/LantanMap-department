@@ -38,7 +38,7 @@ var APP_DATA = {
         {
          "yaw": -0.0520536, "pitch": 0.0182766, "rotation": 0,
           "target": "12--1",
-          "urlTarget": "https://discoveringchiayi.github.io/map-of-Lantan-campus/A大學路/app-files/index.html#12--1",
+          "urlTarget": "https://discoveringchiayi.github.io/LantanMap/A大學路/app-files/index.html#12--1",
           "title": "前往 食品加工廠 側門"
         }       
       ],
@@ -94,7 +94,7 @@ var APP_DATA = {
          {
           "yaw": -0.2293529, "pitch": 0.0392821, "rotation": 0,
           "target": "12--1",
-          "urlTarget": "https://discoveringchiayi.github.io/map-of-Lantan-campus/D1-14(完成)/app-files/index.html#12--1",
+          "urlTarget": "https://discoveringchiayi.github.io/LantanMap/D1-14(完成)/app-files/index.html#12--1",
           "title": "前往 食品加工廠 門口"
         } 
       ],

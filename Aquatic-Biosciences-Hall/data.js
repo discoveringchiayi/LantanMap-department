@@ -25,7 +25,7 @@ var APP_DATA = {
         {
           "yaw": 0.0878173, "pitch": 0.1157236, "rotation": 0,
           "target": "13--14",
-          "urlTarget": "https://discoveringchiayi.github.io/map-of-Lantan-campus/B嘉禾路/app-files/index.html#13--14",
+          "urlTarget": "https://discoveringchiayi.github.io/LantanMap/B嘉禾路/app-files/index.html#13--14",
           "title": "前往 嘉禾路-14(水生生物科學館)"
         }
       ],
@@ -188,7 +188,7 @@ var APP_DATA = {
         {
           "yaw": 2.8461289, "pitch": 0.4161745, "rotation": 0,
           "target": "12--13",
-          "urlTarget": "https://discoveringchiayi.github.io/map-of-Lantan-campus/B嘉禾路/app-files/index.html#12--13",
+          "urlTarget": "https://discoveringchiayi.github.io/LantanMap/B嘉禾路/app-files/index.html#12--13",
           "title": "前往 嘉禾路-13(植醫館、水產養殖研究中心)"
         }
       ],

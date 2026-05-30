@@ -25,7 +25,7 @@ var APP_DATA = {
         {
           "yaw": 3.1197092, "pitch": 0.2422740, "rotation": 0,
           "target": "8--9",
-          "urlTarget": "https://discoveringchiayi.github.io/map-of-Lantan-campus/B嘉禾路/app-files/index.html#8--9",
+          "urlTarget": "https://discoveringchiayi.github.io/LantanMap/B嘉禾路/app-files/index.html#8--9",
           "title": "前往 嘉禾路-9(生物資源館門口)"
         }
       ],

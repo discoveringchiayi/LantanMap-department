@@ -38,7 +38,7 @@ var APP_DATA = {
         {
           "yaw": -0.1763437, "pitch": 0.0689933, "rotation": 0,
           "target": "9--2",
-          "urlTarget": "https://discoveringchiayi.github.io/map-of-Lantan-campus/D1-14(完成)/app-files/index.html#9--2",
+          "urlTarget": "https://discoveringchiayi.github.io/LantanMap/D1-14(完成)/app-files/index.html#9--2",
           "title": "前往 國際事務處 門口 "
         } 
       ],
