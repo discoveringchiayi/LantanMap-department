@@ -11,8 +11,7 @@ Usage
 The main application file is `app-files/index.html`. Many browsers have issues
 when using `file://` URLs. Therefore, to properly view the application it is
 necessary to use a web server.
-
-
+ 
 Deployment
 ----------
 
