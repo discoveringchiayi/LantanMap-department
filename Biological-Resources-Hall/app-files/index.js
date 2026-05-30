@@ -210,5 +210,15 @@
     return null;
   }
 
-  switchScene(scenes[0]);
+  var targetId = window.location.hash.replace('#', '');
+  var initialScene = scenes[0];
+  if (targetId) {
+    for (var i = 0; i < scenes.length; i++) {
+      if (scenes[i].data.id === targetId) {
+        initialScene = scenes[i];
+        break;
+      }
+    }
+  }
+  switchScene(initialScene);
 })();
